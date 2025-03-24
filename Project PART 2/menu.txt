@@ -1,0 +1,5 @@
+Burger 5.00
+Fries 2.50
+Soda 1.50
+Pizza 8.00
+Hot Dog 3.00
