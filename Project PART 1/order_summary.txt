@@ -1,0 +1,35 @@
+Order Summary:
+Subtotal: $6.00
+Sales Tax: $0.30
+Total: $6.30
+-------------------------
+Order Summary:
+Subtotal: $107.00
+Sales Tax: $2.14
+Total: $109.14
+-------------------------
+Order Summary:
+Subtotal: $91.50
+Sales Tax: $4.58
+Total: $96.08
+-------------------------
+Order Summary:
+Subtotal: $0.00
+Sales Tax: $0.00
+Total: $0.00
+-------------------------
+Order Summary:
+Subtotal: $0.00
+Sales Tax: $0.00
+Total: $0.00
+-------------------------
+Order Summary:
+Subtotal: $0.00
+Sales Tax: $0.00
+Total: $0.00
+-------------------------
+Order Summary:
+Subtotal: $40.00
+Sales Tax: $2.00
+Total: $42.00
+-------------------------
